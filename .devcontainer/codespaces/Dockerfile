@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@responsivecodex 
-responsivecodex
-/
-docut
-Public
-Fork your own copy of responsivecodex/docut
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-docut/.devcontainer/codespaces/Dockerfile
-@responsivecodex
-responsivecodex Fixing Mongo problem
-Latest commit 1a9ffe5 on Jan 11
- History
- 1 contributor
-114 lines (100 sloc)  12.4 KB
-
 ##############################################################################
 #  Provide a development environment on NodeJS using last versions at today
 ##############################################################################
@@ -143,18 +112,3 @@ EXPOSE 3000
 #ENTRYPOINT ["/bin/ash","forwardip.sh"]         
   
 ENTRYPOINT ["/bin/ash"]
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-docut/Dockerfile at master · responsivecodex/docut
